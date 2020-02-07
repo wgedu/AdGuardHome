@@ -1,4 +1,5 @@
-![AdGuard](https://github.com/233Bazinga/Handling/blob/master/Picture/banner.png)
+![AdGuard](https://github.com/233Bazinga/Handling/blob/master/Picture/AdGuardBANNER.png)
+
 
 ### [EasyList](https://easylist.to)
 
@@ -19,6 +20,7 @@
 >过滤器链接 https://easylist-downloads.adblockplus.org/easylist-cookie.txt
 
 
+
 ### [Anti-AD](https://github.com/privacy-protection-tools/anti-AD)
 目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护
 
@@ -26,10 +28,19 @@
 >过滤器链接 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
 
-### [CJX's Annoyance List](https://github.com/cjx82630/cjxlist/)
+
+### [CJX's Annoyance List](https://github.com/cjx82630/cjxlist)
 
 >过滤烦人的自我推广，并补充 EasyPrivacy 隐私规则   
 >过滤器链接 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+
+
+
+### [I don't care about cookies](https://www.i-dont-care-about-cookies.eu)
+
+>屏蔽网站的 cookies 相关的警告   
+>过滤器链接 https://www.i-dont-care-about-cookies.eu/abp/
+
 
 
 ### [广告净化器规则](http://www.yiclear.com)
@@ -38,12 +49,14 @@
 >过滤器链接 http://tools.yiclear.com/ChinaList2.0.txt
 
 
+
 ### [知乎过滤器](https://github.com/zsakvo/AdGuard-Custom-Rule)
 
 >去除开屏、时间轴、首页推荐、回答列表、回答底部及评论区广告，个人中心VIP横幅   
 >去除知乎会员推荐的内容（严格版）   
 >标准版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt   
 >严格版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
+
 
 
 ### Hosts过滤器
