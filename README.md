@@ -1,55 +1,54 @@
 ![AdGuard](https://github.com/233Bazinga/Handling/blob/master/Picture/AdGuardBANNER.png)
-
-
+   
 ### [EasyList](https://easylist.to)
 
 >EasyList   
 >去除国际网页中大多数广告，包括不需要的框架、图像和对象   
->过滤器链接 https://easylist-downloads.adblockplus.org/easylist.txt
+>链接 https://easylist-downloads.adblockplus.org/easylist.txt
 
 >EasyList China   
 >EasyList针对国内的补充规则   
->过滤器链接 https://easylist-downloads.adblockplus.org/easylistchina.txt
+>链接 https://easylist-downloads.adblockplus.org/easylistchina.txt
 
 >EasyPrivacy   
 >从网络上上完全删除所有形式的跟踪，包括Web错误、跟踪脚本和信息收集，从而保护您的个人数据   
->过滤器链接 https://easylist-downloads.adblockplus.org/easyprivacy.txt
+>链接 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 >EasyList Cookie List   
 >阻止Cookie标语，GDPR覆盖窗口和其他与隐私相关的通知   
->过滤器链接 https://easylist-downloads.adblockplus.org/easylist-cookie.txt
+>链接 https://easylist-downloads.adblockplus.org/easylist-cookie.txt
 
-
-
+   
 ### [Anti-AD](https://github.com/privacy-protection-tools/anti-AD)
+
 目前中文区命中率最高的广告过滤列表，实现了精确的广告屏蔽和隐私保护
-
 >屏蔽广告域名、电视盒子广告、APP内置广告，同时屏蔽了一些日志收集、大数据统计等涉及个人隐私信息的站点，能够保护个人隐私不被偷偷上传   
->过滤器链接 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+>链接 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 
+   
+### [Adbyby](https://github.com/adbyby/xwhyc-rules)
 
-
+>链接 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt   
+>链接 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/video.txt
+   
 ### [CJX's Annoyance List](https://github.com/cjx82630/cjxlist)
 
 >过滤烦人的自我推广，并补充 EasyPrivacy 隐私规则   
->过滤器链接 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+>链接 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 
-
-
+   
 ### [I don't care about cookies](https://www.i-dont-care-about-cookies.eu)
 
 >屏蔽网站的 cookies 相关的警告   
->过滤器链接 https://www.i-dont-care-about-cookies.eu/abp/
+>链接 https://www.i-dont-care-about-cookies.eu/abp/
 
-
-
+   
 ### [广告净化器规则](http://www.yiclear.com)
 
 >过滤国内大部分视频网站的广告   
->过滤器链接 http://tools.yiclear.com/ChinaList2.0.txt
+>链接 http://tools.yiclear.com/ChinaList2.0.txt
 
-
-
+   
 ### [知乎过滤器](https://github.com/zsakvo/AdGuard-Custom-Rule)
 
 >去除开屏、时间轴、首页推荐、回答列表、回答底部及评论区广告，个人中心VIP横幅   
@@ -58,7 +57,7 @@
 >严格版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
 
 
-
+   
 ### Hosts过滤器
 
 >大圣净化 - 针对国内视频网站   
