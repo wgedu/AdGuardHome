@@ -70,7 +70,7 @@
 >链接 https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts
 
 >Hblock - 综合多种源集合体屏蔽广告跟踪和恶意软件   
->链接 https://hblock.molinero.xyz/hosts 
+>链接 https://hblock.molinero.dev/hosts 
 
 >Mvps - 屏蔽美欧地区英文网站相关的广告   
 >链接 http://winhelp2002.mvps.org/hosts.txt
