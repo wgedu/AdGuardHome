@@ -55,7 +55,8 @@
 ### [广告净化器规则](http://www.yiclear.com)
 
 >过滤国内大部分视频网站的广告   
->链接 http://tools.yiclear.com/ChinaList2.0.txt
+>链接 http://tools.yiclear.com/ChinaList2.0.txt （暂时失效）  
+>备用 https://raw.githubusercontent.com/233Bazinga/AdGuardHome/master/ChinaList2.0
 
 
 ### [知乎过滤器](https://github.com/zsakvo/AdGuard-Custom-Rule)
