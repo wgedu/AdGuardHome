@@ -6,6 +6,8 @@
 <p align="center">
   Free and open source, powerful network-wide ads & trackers blocking DNS server.
 </p>
+  
+<br />
    
 ### [EasyList](https://easylist.to)
 
@@ -55,14 +57,13 @@
 >过滤国内大部分视频网站的广告   
 >链接 http://tools.yiclear.com/ChinaList2.0.txt
 
-   
+
 ### [知乎过滤器](https://github.com/zsakvo/AdGuard-Custom-Rule)
 
 >去除开屏、时间轴、首页推荐、回答列表、回答底部及评论区广告，个人中心VIP横幅   
 >去除知乎会员推荐的内容（严格版）   
 >标准版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt   
 >严格版 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
-
 
    
 ### Hosts过滤器
