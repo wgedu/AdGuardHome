@@ -1,4 +1,11 @@
-![AdGuard](https://github.com/233Bazinga/Handling/blob/master/Picture/AdGuardBANNER.png)
+&nbsp;
+<p align="center">
+  <img src="https://cdn.adguard.com/public/Adguard/Common/adguard_home.svg" width="300px" alt="AdGuard Home" />
+</p>
+<h3 align="center">Privacy protection center for you and your devices</h3>
+<p align="center">
+  Free and open source, powerful network-wide ads & trackers blocking DNS server.
+</p>
    
 ### [EasyList](https://easylist.to)
 
@@ -11,7 +18,7 @@
 >链接 https://easylist-downloads.adblockplus.org/easylistchina.txt
 
 >EasyPrivacy   
->从网络上上完全删除所有形式的跟踪，包括Web错误、跟踪脚本和信息收集，从而保护您的个人数据   
+>在网络上完全删除所有形式的跟踪，包括Web错误、跟踪脚本和信息收集，从而保护个人数据   
 >链接 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 >EasyList Cookie List   
