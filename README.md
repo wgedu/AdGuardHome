@@ -85,8 +85,8 @@
 >链接 http://winhelp2002.mvps.org/hosts.txt
 
 >neoHosts - 国内屏蔽挖矿统计JS&360&百度&法轮功等   
->链接 ~~https://hosts.nfz.moe/full/hosts~~
->链接 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt 基础、克制的数据，推荐所有用户使用
+>链接 ~~https://hosts.nfz.moe/full/hosts~~   
+>链接 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt 基础、克制的数据，推荐所有用户使用   
 >链接 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt 包含全部数据，仅推荐强迫症使用
 
 >StevenBlack - 屏蔽国外网站广告-国外维护   
