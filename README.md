@@ -55,8 +55,7 @@
 ### [广告净化器规则](http://www.yiclear.com)
 
 >过滤国内大部分视频网站的广告   
->链接 ~~http://tools.yiclear.com/ChinaList2.0.txt~~ （暂时失效）  
->备用 https://raw.githubusercontent.com/233Bazinga/AdGuardHome/master/ChinaList2.0
+>备份 https://raw.githubusercontent.com/233Bazinga/AdGuardHome/master/ChinaList2.0
 
 
 ### [知乎过滤器](https://github.com/zsakvo/AdGuard-Custom-Rule)
@@ -85,9 +84,8 @@
 >链接 http://winhelp2002.mvps.org/hosts.txt
 
 >neoHosts - 国内屏蔽挖矿统计JS&360&百度&法轮功等   
->链接 ~~https://hosts.nfz.moe/full/hosts~~   
->链接 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt 基础、克制的数据，推荐所有用户使用   
->链接 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt 包含全部数据，仅推荐强迫症使用
+>标准版 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt   
+>严格版 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt 
 
 >StevenBlack - 屏蔽国外网站广告-国外维护   
 >链接 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
