@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/233Bazinga/AdGuardHome/blob/master/README_CN.md">Chinese Version</a> 
+    <a href="https://github.com/233Bazinga/AdGuardHome/blob/master/README.md">English Version</a> 
 </p>
 
 <br />
@@ -18,53 +18,52 @@
 
  * EasyList   
 
-> The primary filter list that removes most adverts from international webpages, including unwanted frames, images and objects.
+> 可从国际网页上删除大部分广告，包括不需要的框架，图像和对象
 ```ini
 https://easylist-downloads.adblockplus.org/easylist.txt
 ```
  * EasyList China   
-> Chinese supplement for the EasyList filters.
+> EasyList的中文补充过滤器
 ```ini
 https://easylist-downloads.adblockplus.org/easylistchina.txt
 ```
 
  * EasyPrivacy   
-> An optional supplementary filter list that completely removes all forms of tracking from the internet, including web bugs, tracking scripts and information collectors, thereby protecting your personal data.
+> 可选的补充过滤器列表，该列表从网络删除了所有形式的跟踪，包括Web错误，跟踪脚本和信息收集器，从而保护您的个人数据
 ```ini
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 ```
  * EasyList Cookie List   
-> Blocks cookies banners, GDPR overlay windows and other privacy-related notices.  
+> 阻止cookie横幅，GDPR覆盖窗口和其他与隐私相关的通知
 ```ini
 https://easylist-downloads.adblockplus.org/easylist-cookie.txt
 ```
    
 ## [Anti-AD](https://github.com/privacy-protection-tools/anti-AD)
 
-> Using anti-AD can block advertising domain names, TV box ads, and app built-in ads. At the same time, it also blocks some sites involving personal privacy information such as log collection and data statistics, which can protect personal privacy from being secretly uploaded.
+> 使用anti-AD能够屏蔽广告域名，能屏蔽电视盒子广告，屏蔽app内置广告，同时屏蔽了一些日志收集，大数据统计等涉及个人隐私信息的站点，能够保护个人隐私不被偷偷上传
 ```ini
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 ```
 
 ## [CJX's Annoyance List](https://github.com/cjx82630/cjxlist)
 
-> Supplement for "EasyList China+EasyList" & "EasyPrivacy". Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites.
+> “ EasyList China + EasyList” 和 “ EasyPrivacy” 的补充，删除了中文网站上的烦人的自我推广
 ```ini
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 ```
    
 ## [I don't care about cookies](https://www.i-dont-care-about-cookies.eu)
 
-> This file removes cookie warnings from almost all websites and saves you thousands of unnecessary clicks!  
+> 可从几乎所有网站上删除Cookie警告，并为您节省数千次不必要的点击！
 ```ini
 https://www.i-dont-care-about-cookies.eu/abp/
 ```
 
 ## [Zhihu Filter](https://github.com/zsakvo/AdGuard-Custom-Rule)
 
-> Remove the opening screen, timeline, homepage recommendation, answer list, answer bottom and comment area ads, personal center VIP banner.
-
-> Remove content recommended by Zhihu VIP.(Strict)  
+>去除开屏、时间轴、首页推荐、回答列表、回答底部及评论区广告，个人中心VIP横幅   
+>去除知乎会员推荐的内容（Strict）   
 ```ini
 # Basic
 https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt
@@ -76,43 +75,43 @@ https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-s
 ## Hosts Filter
 
  * [1024_hosts](https://github.com/Goooler/1024_hosts)
-> Block ads for 1024-websites and Macau casinos.
+> 屏蔽一些1024站的弹窗广告和辣鸡澳门赌场的广告
 ```ini
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 ```
 
  * [AdAway](https://github.com/AdAway/adaway.github.io)
-> Blocking mobile ad providers and some analytics providers.
+> 阻止移动广告提供商和一些分析提供商
 ```ini
 https://adaway.org/hosts.txt
 ```
 
  * [ad-wars](https://github.com/jdlingyu/ad-wars/)
-> Block ads for chinese video websites.
+> 屏蔽一些中国视频网站的广告
 ```ini
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 ```
 
  * [Google hosts](https://github.com/googlehosts/hosts)
-> Improve your website access speed.
+> 提高网站访问速度
 ```ini
 https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts
 ```
 
  * [Hblock](https://github.com/hectorm/hblock)
-> Improve your security and privacy by blocking ads, tracking and malware domains.  
+> 通过阻止广告，跟踪和恶意软件域来提高安全性和隐私性
 ```ini
 https://hblock.molinero.dev/hosts 
 ```
 
  * [Mvps](https://winhelp2002.mvps.org/hosts.htm)
-> You can use this file to block ads, banners, 3rd party Cookies, 3rd party page counters, web bugs, and even most hijackers and possibly unwanted programs. 
+> 您可以使用此文件来阻止广告，横幅，第三方Cookie，第三方页面计数器，网络错误，甚至是大多数劫持和可能有害的程序
 ```ini
 http://winhelp2002.mvps.org/hosts.txt
 ```
 
  * [neoHosts](https://github.com/neofelhz/neohosts)
-> Block filter for 360, Baidu, Religious and JS Miner.
+> 屏蔽 `JS Miner 挖矿、百度全家桶的全天候定位记录、各类统计服务（仅屏蔽 JS、不屏蔽控制台）、常见下载劫持、360 和百度的部分软件下载、CNNIC 根证书劫持、法轮功、ISIS、银河联邦等可能令人反感的激进宗教内容网站`
 ```ini
 # Basic 
 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt 
@@ -121,19 +120,19 @@ https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt
 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt 
 ```
  * [StevenBlack](https://github.com/StevenBlack/hosts)
-> Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
+> 整合和扩展来自多个精心策划的来源的hosts文件。您可以选择扩展，以阻止色情，社交媒体和其他类别。
 ```ini
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ```
 
  * [yhosts](https://github.com/VeleSila/yhosts)
-> Block ads for chinese websites and Apps.
+> 屏蔽绝大多数中国网站以及APP的广告
 ```ini
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 ```
 
  * [YousList](https://github.com/yous/YousList)
-> Block filter for advertisements, mainly on Korean sites.
+> 屏蔽韩国网站广告
 ```ini
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 ```
